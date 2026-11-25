@@ -1,0 +1,16 @@
+{
+  "name": "RoofVellum",
+  "short_name": "RoofVellum",
+  "description": "AI inspection assistance software that analyzes roof photographs and organizes visible maintenance concerns for qualified inspectors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#f3f4f6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

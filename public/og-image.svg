@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#f05a1a" stop-opacity=".35"/><stop offset="1" stop-color="#f3f4f6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#f3f4f6"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f05a1a"/><stop offset="1" stop-color="#334a68"/></linearGradient></defs><path d="M8 58V32a24 24 0 0 1 48 0v26H44V32a12 12 0 0 0-24 0v26z" fill="url(#g)"/><rect x="26" y="44" width="12" height="14" rx="2" fill="#f2a531"/></g>
+  <text x="190" y="150" font-family="Archivo, Georgia, serif" font-size="54" font-weight="600" fill="#151a22">RoofVellum</text>
+  <text x="80" y="330" font-family="Archivo, Georgia, serif" font-size="72" font-weight="800" fill="#151a22">More consistent roofing</text>
+  <text x="80" y="414" font-family="Archivo, Georgia, serif" font-size="72" font-weight="800" fill="#151a22">inspections.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#f05a1a" letter-spacing="4">CONSTRUCTION  ·  COMPUTER VISION  ·  REAL ESTATE</text>
+</svg>
