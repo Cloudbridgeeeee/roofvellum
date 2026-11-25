@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for RoofVellum.
 - Industry: Construction, Computer Vision, Real Estate
 - Founder: Abdulazeez Kareem (Founder & CEO)
 - Co-founder: Ifunanya Eze (Co-founder & CTO)
-- Contact: abdulazeez@roofvellum.top
+- Contact: abdulazeez@roofvellum.space
 - Business model: Inspection-based subscriptions
 
 ## Stack
